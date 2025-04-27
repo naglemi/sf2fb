@@ -22,8 +22,7 @@ No prior Python or command‑line experience needed—just follow the steps.
 
 ---
 ## 1. Download the project
-1. Click the **▼ Code** button in GitHub (or get the ZIP your friend sent).  
-2. Extract the folder to your Desktop or any convenient place.
+1. Just send the URL to Windsurf Cascade and ask it to handle the installation and initial testing.
 
 You should see:
 ```
